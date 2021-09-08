@@ -10,11 +10,10 @@ Uma empresa X , tem que preencher periodicamente documentos word's, de forma man
 -  Automatizar recolhimento de dados para preenchimento de documentos no word 
 ## Task's :
 - [ ] prototipagem 
-   *  https://www.figma.com/file/QghA8m6pO8tVa9sfcPGH7X/AutomationProjectStudies_APIGOOGLE?node-id=0%3A1
-- [ ] Escolher tecnologias 
+- [X] Escolher tecnologias 
 - [ ] Criar Front-end 
-- [ ] Pensar na lógica de negócio
-- [ ] Implementar a lógica de negócio
+- [X] Pensar na lógica de negócio
+- [X] Implementar a lógica de negócio
 
 
 ## Processos :
